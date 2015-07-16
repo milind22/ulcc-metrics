@@ -1,0 +1,6 @@
+all:
+	gcc infinite_version_ulcc.c -L../../../src -Wl,-rpath,../../../src -lulcc -lpthread -o infiniteULCC
+run:
+	./infiniteULCC
+clean:
+	rm -f infiniteULCC

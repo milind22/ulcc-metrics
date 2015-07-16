@@ -1,0 +1,31 @@
+COMPILE, INSTALL & USAGE
+------------------------
+First edit setup.sh file to specify the
+last level cache parameters of your CPUs (check /sys/devices/system/cpu to get
+the info of your CPUs). For example, suppose you have a multi-core CPU with an
+8 MiB last level cache whose set associativity is 12, define ULCC_CACHE_KB to
+(8 * 1024) and ULCC_CACHE_ASSOC to (12). ULCC_PAGE_BITS should normally be 12,
+unless the page size on your system is not 4KiB.
+
+Then run setup.sh.
+
+------------------------
+
+For doing the performance test 1, i.e., cache miss ratio for managed solo-run(i.e. with ULCC support) of a process, cd to test/bench/pt1/ and edit test.sh to specify the no. of nops to be inserted, upper limit of number of colors to be assigned, upper limit of stack distance and no. of iterations to be made.
+
+Then run test.sh
+
+The directory 'data' contains the mean and median values.
+
+------------------------
+
+For doing the performance test 2, i.e., finding the cache miss ratio(CMR) for:
+	1. solo run of processes
+	2. unmanaged co-run of these processes
+	3. managed co-run(i.e. with ULCC support)
+cd to test/bench/pt2/ and edit test.sh to specify the no. of nops to be inserted, stack distances for strong locality, stack distances for weak locality, no. of colors for strong locality, no. of colors for weak locality and no. of iterations to be made.
+
+Then run test.sh
+
+The directory 'data' contains the mean and median values.
+The directory 'files' contains all the data for individual run of the test.

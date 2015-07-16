@@ -1,0 +1,6 @@
+all:
+	gcc infinite_version.c -L../../../src -Wl,-rpath,../../../src -lulcc -lpthread -o infinite
+run:
+	./infinite
+clean:
+	rm -f infinite

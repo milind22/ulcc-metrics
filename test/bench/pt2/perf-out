@@ -1,0 +1,2365 @@
+# started on Sun Jun 28 12:36:26 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       8,45,35,502      cache-misses              #   24.783 % of all cache refs    
+      34,10,99,655      cache-references                                            
+            20,578      LLC-prefetches                                              
+
+       5.002612551 seconds time elapsed
+
+# started on Sun Jun 28 12:36:31 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       7,52,17,836      cache-misses              #   21.610 % of all cache refs    
+      34,80,66,168      cache-references                                            
+            46,882      LLC-prefetches                                              
+
+       5.001519556 seconds time elapsed
+
+# started on Sun Jun 28 12:36:36 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      13,35,47,084      cache-misses              #   53.158 % of all cache refs    
+      25,12,25,157      cache-references                                            
+            50,876      LLC-prefetches                                              
+
+       5.002576113 seconds time elapsed
+
+# started on Sun Jun 28 12:40:04 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       2,77,18,057      cache-misses              #    5.061 % of all cache refs    
+      54,76,60,277      cache-references                                            
+            53,444      LLC-prefetches                                              
+
+       5.002512180 seconds time elapsed
+
+# started on Sun Jun 28 12:40:09 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       5,02,89,267      cache-misses              #   12.274 % of all cache refs    
+      40,97,16,797      cache-references                                            
+            49,745      LLC-prefetches                                              
+
+       5.002016940 seconds time elapsed
+
+# started on Sun Jun 28 12:40:14 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      12,57,65,467      cache-misses              #   47.869 % of all cache refs    
+      26,27,25,837      cache-references                                            
+            85,128      LLC-prefetches                                              
+
+       5.001812717 seconds time elapsed
+
+# started on Sun Jun 28 12:42:29 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       3,92,94,951      cache-misses              #    8.355 % of all cache refs    
+      47,03,12,798      cache-references                                            
+            21,142      LLC-prefetches                                              
+
+       5.002483715 seconds time elapsed
+
+# started on Sun Jun 28 12:42:34 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+      11,86,17,966      cache-misses              #   47.351 % of all cache refs    
+      25,05,08,401      cache-references                                            
+            18,267      LLC-prefetches                                              
+
+       5.001459755 seconds time elapsed
+
+# started on Sun Jun 28 12:42:39 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      12,34,64,520      cache-misses              #   48.411 % of all cache refs    
+      25,50,36,107      cache-references                                            
+            55,165      LLC-prefetches                                              
+
+       5.002388779 seconds time elapsed
+
+# started on Sun Jun 28 12:47:51 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       5,00,26,689      cache-misses              #   11.747 % of all cache refs    
+      42,58,74,163      cache-references                                            
+            19,990      LLC-prefetches                                              
+
+       5.002366140 seconds time elapsed
+
+# started on Sun Jun 28 12:47:56 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       6,40,07,734      cache-misses              #   17.821 % of all cache refs    
+      35,91,69,133      cache-references                                            
+            17,725      LLC-prefetches                                              
+
+       5.002450613 seconds time elapsed
+
+# started on Sun Jun 28 12:48:01 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      12,49,98,967      cache-misses              #   47.989 % of all cache refs    
+      26,04,73,950      cache-references                                            
+            86,415      LLC-prefetches                                              
+
+       5.001580016 seconds time elapsed
+
+# started on Sun Jun 28 12:52:22 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+      10,22,71,225      cache-misses              #   36.650 % of all cache refs    
+      27,90,45,451      cache-references                                            
+            20,986      LLC-prefetches                                              
+
+       5.002538949 seconds time elapsed
+
+# started on Sun Jun 28 12:52:27 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       4,67,22,691      cache-misses              #   10.654 % of all cache refs    
+      43,85,30,402      cache-references                                            
+            48,580      LLC-prefetches                                              
+
+       5.002073058 seconds time elapsed
+
+# started on Sun Jun 28 12:52:32 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      12,66,41,464      cache-misses              #   48.343 % of all cache refs    
+      26,19,61,877      cache-references                                            
+            87,600      LLC-prefetches                                              
+
+       5.002363466 seconds time elapsed
+
+# started on Sun Jun 28 12:54:49 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       4,54,12,895      cache-misses              #   10.578 % of all cache refs    
+      42,93,03,310      cache-references                                            
+            10,771      LLC-prefetches                                              
+
+       5.002442385 seconds time elapsed
+
+# started on Sun Jun 28 12:54:54 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+      11,24,74,998      cache-misses              #   42.751 % of all cache refs    
+      26,30,92,583      cache-references                                            
+            52,532      LLC-prefetches                                              
+
+       5.002915817 seconds time elapsed
+
+# started on Sun Jun 28 12:54:59 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      12,91,11,260      cache-misses              #   49.791 % of all cache refs    
+      25,93,08,692      cache-references                                            
+            87,944      LLC-prefetches                                              
+
+       5.001940714 seconds time elapsed
+
+# started on Sun Jun 28 12:56:11 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       7,44,58,738      cache-misses              #   24.217 % of all cache refs    
+      30,74,62,287      cache-references                                            
+            15,226      LLC-prefetches                                              
+
+       5.002685984 seconds time elapsed
+
+# started on Sun Jun 28 12:56:16 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       4,85,98,007      cache-misses              #   11.737 % of all cache refs    
+      41,40,67,795      cache-references                                            
+            55,791      LLC-prefetches                                              
+
+       5.003338761 seconds time elapsed
+
+# started on Sun Jun 28 12:56:21 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      13,91,80,940      cache-misses              #   59.057 % of all cache refs    
+      23,56,71,401      cache-references                                            
+            85,421      LLC-prefetches                                              
+
+       5.001881605 seconds time elapsed
+
+# started on Sun Jun 28 13:17:25 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       7,84,49,707      cache-misses              #    8.450 % of all cache refs    
+      92,84,02,450      cache-references                                            
+            37,620      LLC-prefetches                                              
+
+      10.002896487 seconds time elapsed
+
+# started on Sun Jun 28 13:17:35 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+      19,69,87,607      cache-misses              #   33.665 % of all cache refs    
+      58,51,34,124      cache-references                                            
+            73,480      LLC-prefetches                                              
+
+      10.001789856 seconds time elapsed
+
+# started on Sun Jun 28 13:17:45 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      24,28,33,361      cache-misses              #   47.451 % of all cache refs    
+      51,17,54,556      cache-references                                            
+            65,003      LLC-prefetches                                              
+
+      10.002250863 seconds time elapsed
+
+# started on Sun Jun 28 13:17:55 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       1,39,57,267      cache-misses              #   14.131 % of all cache refs    
+       9,87,73,443      cache-references                                            
+            56,169      LLC-prefetches                                              
+
+       1.280280478 seconds time elapsed
+
+# started on Sun Jun 28 13:18:05 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       2,42,22,313      cache-misses              #   24.515 % of all cache refs    
+       9,88,05,357      cache-references                                            
+            64,265      LLC-prefetches                                              
+
+       1.513678311 seconds time elapsed
+
+# started on Sun Jun 28 13:18:15 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 50':
+
+       4,88,29,606      cache-misses              #   49.302 % of all cache refs    
+       9,90,41,487      cache-references                                            
+          1,02,367      LLC-prefetches                                              
+
+       2.019199038 seconds time elapsed
+
+# started on Sun Jun 28 13:18:26 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 60':
+
+       2,65,21,949      cache-misses              #   26.848 % of all cache refs    
+       9,87,85,648      cache-references                                            
+            55,568      LLC-prefetches                                              
+
+       1.696446220 seconds time elapsed
+
+# started on Sun Jun 28 13:18:36 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 60':
+
+       1,86,96,416      cache-misses              #   18.923 % of all cache refs    
+       9,88,02,308      cache-references                                            
+            61,171      LLC-prefetches                                              
+
+       1.429172796 seconds time elapsed
+
+# started on Sun Jun 28 13:18:46 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 60':
+
+       4,91,11,389      cache-misses              #   49.576 % of all cache refs    
+       9,90,63,013      cache-references                                            
+          1,01,991      LLC-prefetches                                              
+
+       1.983928485 seconds time elapsed
+
+# started on Sun Jun 28 13:18:57 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       5,96,14,765      cache-misses              #    6.557 % of all cache refs    
+      90,92,28,199      cache-references                                            
+            60,011      LLC-prefetches                                              
+
+      10.005917603 seconds time elapsed
+
+# started on Sun Jun 28 13:19:08 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       9,85,79,305      cache-misses              #   13.602 % of all cache refs    
+      72,47,14,794      cache-references                                            
+            65,105      LLC-prefetches                                              
+
+      10.005091389 seconds time elapsed
+
+# started on Sun Jun 28 13:19:19 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+      15,95,43,503      cache-misses              #   29.331 % of all cache refs    
+      54,39,38,880      cache-references                                            
+            60,356      LLC-prefetches                                              
+
+      10.005723916 seconds time elapsed
+
+# started on Sun Jun 28 13:19:30 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+      13,94,02,826      cache-misses              #   21.944 % of all cache refs    
+      63,52,71,190      cache-references                                            
+            75,074      LLC-prefetches                                              
+
+      10.004361790 seconds time elapsed
+
+# started on Sun Jun 28 13:19:41 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      26,00,11,509      cache-misses              #   57.429 % of all cache refs    
+      45,27,50,866      cache-references                                            
+            90,981      LLC-prefetches                                              
+
+      10.004872241 seconds time elapsed
+
+# started on Sun Jun 28 13:19:52 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      22,40,02,068      cache-misses              #   59.130 % of all cache refs    
+      37,88,27,377      cache-references                                            
+            84,920      LLC-prefetches                                              
+
+      10.004382000 seconds time elapsed
+
+# started on Sun Jun 28 13:20:03 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       3,16,96,574      cache-misses              #   32.045 % of all cache refs    
+       9,89,14,092      cache-references                                            
+            61,536      LLC-prefetches                                              
+
+       1.753738701 seconds time elapsed
+
+# started on Sun Jun 28 13:20:14 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       1,70,98,156      cache-misses              #   17.305 % of all cache refs    
+       9,88,02,262      cache-references                                            
+            60,528      LLC-prefetches                                              
+
+       1.493767520 seconds time elapsed
+
+# started on Sun Jun 28 13:20:25 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       3,68,04,045      cache-misses              #   37.182 % of all cache refs    
+       9,89,82,938      cache-references                                            
+            68,699      LLC-prefetches                                              
+
+       1.910465621 seconds time elapsed
+
+# started on Sun Jun 28 13:20:36 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       2,98,22,994      cache-misses              #   30.167 % of all cache refs    
+       9,88,58,970      cache-references                                            
+            67,472      LLC-prefetches                                              
+
+       1.847346297 seconds time elapsed
+
+# started on Sun Jun 28 13:20:47 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 50':
+
+       5,88,44,886      cache-misses              #   59.356 % of all cache refs    
+       9,91,38,336      cache-references                                            
+          1,06,095      LLC-prefetches                                              
+
+       2.215883133 seconds time elapsed
+
+# started on Sun Jun 28 13:20:58 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 50':
+
+       5,99,25,313      cache-misses              #   60.457 % of all cache refs    
+       9,91,20,332      cache-references                                            
+          1,07,144      LLC-prefetches                                              
+
+       2.263530266 seconds time elapsed
+
+# started on Sun Jun 28 13:21:09 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 60':
+
+       2,48,83,900      cache-misses              #   25.177 % of all cache refs    
+       9,88,36,529      cache-references                                            
+            55,697      LLC-prefetches                                              
+
+       1.906514396 seconds time elapsed
+
+# started on Sun Jun 28 13:21:20 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 60':
+
+       1,17,35,133      cache-misses              #   11.865 % of all cache refs    
+       9,89,03,481      cache-references                                            
+            55,815      LLC-prefetches                                              
+
+       1.380868887 seconds time elapsed
+
+# started on Sun Jun 28 13:21:31 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 60':
+
+       1,63,43,245      cache-misses              #   16.506 % of all cache refs    
+       9,90,11,509      cache-references                                            
+            70,012      LLC-prefetches                                              
+
+       1.523612571 seconds time elapsed
+
+# started on Sun Jun 28 13:21:42 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 60':
+
+       5,05,67,854      cache-misses              #   51.097 % of all cache refs    
+       9,89,64,080      cache-references                                            
+            69,580      LLC-prefetches                                              
+
+       2.326649329 seconds time elapsed
+
+# started on Sun Jun 28 13:21:53 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 60':
+
+       5,07,81,378      cache-misses              #   51.246 % of all cache refs    
+       9,90,93,732      cache-references                                            
+          1,00,327      LLC-prefetches                                              
+
+       2.237024921 seconds time elapsed
+
+# started on Sun Jun 28 13:22:04 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 60':
+
+       5,84,98,331      cache-misses              #   58.826 % of all cache refs    
+       9,94,43,577      cache-references                                            
+          1,04,602      LLC-prefetches                                              
+
+       2.442172881 seconds time elapsed
+
+# started on Sun Jun 28 13:25:50 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       8,54,24,279      cache-misses              #    9.702 % of all cache refs    
+      88,04,44,440      cache-references                                            
+            46,577      LLC-prefetches                                              
+
+      10.002612979 seconds time elapsed
+
+# started on Sun Jun 28 13:26:00 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+      12,43,61,889      cache-misses              #   17.320 % of all cache refs    
+      71,80,37,722      cache-references                                            
+            27,019      LLC-prefetches                                              
+
+      10.001352338 seconds time elapsed
+
+# started on Sun Jun 28 13:26:10 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+      25,78,88,362      cache-misses              #   50.042 % of all cache refs    
+      51,53,47,691      cache-references                                            
+          1,05,511      LLC-prefetches                                              
+
+      10.002181912 seconds time elapsed
+
+# started on Sun Jun 28 13:26:20 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       2,00,10,376      cache-misses              #   20.242 % of all cache refs    
+       9,88,54,197      cache-references                                            
+            54,586      LLC-prefetches                                              
+
+       1.446240612 seconds time elapsed
+
+# started on Sun Jun 28 13:26:30 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       2,52,56,650      cache-misses              #   25.555 % of all cache refs    
+       9,88,31,432      cache-references                                            
+            63,041      LLC-prefetches                                              
+
+       1.530277968 seconds time elapsed
+
+# started on Sun Jun 28 13:32:46 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       2,48,70,146      cache-misses              #    9.129 % of all cache refs    
+      27,24,43,917      cache-references                                            
+            13,920      LLC-prefetches                                              
+
+       3.002824604 seconds time elapsed
+
+# started on Sun Jun 28 13:32:49 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       3,50,11,337      cache-misses              #   15.701 % of all cache refs    
+      22,29,91,809      cache-references                                            
+            12,421      LLC-prefetches                                              
+
+       3.002149783 seconds time elapsed
+
+# started on Sun Jun 28 13:32:52 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+       7,47,86,143      cache-misses              #   49.416 % of all cache refs    
+      15,13,39,861      cache-references                                            
+            43,414      LLC-prefetches                                              
+
+       3.002538009 seconds time elapsed
+
+# started on Sun Jun 28 13:32:55 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       1,32,30,168      cache-misses              #   13.399 % of all cache refs    
+       9,87,43,068      cache-references                                            
+            54,211      LLC-prefetches                                              
+
+       1.257084481 seconds time elapsed
+
+# started on Sun Jun 28 13:32:58 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       2,45,97,755      cache-misses              #   24.901 % of all cache refs    
+       9,87,84,142      cache-references                                            
+            63,227      LLC-prefetches                                              
+
+       1.512049801 seconds time elapsed
+
+# started on Sun Jun 28 13:33:01 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 50':
+
+       4,97,99,750      cache-misses              #   50.267 % of all cache refs    
+       9,90,69,946      cache-references                                            
+          1,03,512      LLC-prefetches                                              
+
+       2.001085086 seconds time elapsed
+
+# started on Sun Jun 28 13:33:04 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 60':
+
+         55,22,048      cache-misses              #    5.594 % of all cache refs    
+       9,87,18,200      cache-references                                            
+            48,582      LLC-prefetches                                              
+
+       0.975871660 seconds time elapsed
+
+# started on Sun Jun 28 13:33:07 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 60':
+
+       1,59,03,647      cache-misses              #   16.101 % of all cache refs    
+       9,87,72,482      cache-references                                            
+            66,066      LLC-prefetches                                              
+
+       1.349495602 seconds time elapsed
+
+# started on Sun Jun 28 13:33:10 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 60':
+
+       4,97,06,185      cache-misses              #   50.177 % of all cache refs    
+       9,90,61,720      cache-references                                            
+          1,02,527      LLC-prefetches                                              
+
+       2.018020059 seconds time elapsed
+
+# started on Sun Jun 28 13:33:14 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       3,67,65,747      cache-misses              #   18.121 % of all cache refs    
+      20,28,89,423      cache-references                                            
+            18,074      LLC-prefetches                                              
+
+       3.005871150 seconds time elapsed
+
+# started on Sun Jun 28 13:33:18 2015
+
+
+ Performance counter stats for './infinite 10 64':
+
+       3,42,39,925      cache-misses              #   17.014 % of all cache refs    
+      20,12,42,132      cache-references                                            
+            17,167      LLC-prefetches                                              
+
+       3.006919477 seconds time elapsed
+
+# started on Sun Jun 28 13:33:22 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       4,27,27,517      cache-misses              #   22.753 % of all cache refs    
+      18,77,89,243      cache-references                                            
+            52,516      LLC-prefetches                                              
+
+       3.006083948 seconds time elapsed
+
+# started on Sun Jun 28 13:33:26 2015
+
+
+ Performance counter stats for './infinite 12 64':
+
+       4,39,31,304      cache-misses              #   24.578 % of all cache refs    
+      17,87,42,893      cache-references                                            
+            16,023      LLC-prefetches                                              
+
+       3.009260203 seconds time elapsed
+
+# started on Sun Jun 28 13:33:30 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+       7,80,41,027      cache-misses              #   58.188 % of all cache refs    
+      13,41,19,047      cache-references                                            
+            50,921      LLC-prefetches                                              
+
+       3.004262115 seconds time elapsed
+
+# started on Sun Jun 28 13:33:34 2015
+
+
+ Performance counter stats for './infinite 20 64':
+
+       7,98,13,723      cache-misses              #   59.714 % of all cache refs    
+      13,36,60,092      cache-references                                            
+            50,054      LLC-prefetches                                              
+
+       3.004870380 seconds time elapsed
+
+# started on Sun Jun 28 13:33:38 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       3,00,37,838      cache-misses              #   30.375 % of all cache refs    
+       9,88,90,075      cache-references                                            
+            63,177      LLC-prefetches                                              
+
+       1.730851292 seconds time elapsed
+
+# started on Sun Jun 28 13:33:42 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 50':
+
+       3,14,74,304      cache-misses              #   31.822 % of all cache refs    
+       9,89,07,661      cache-references                                            
+            61,345      LLC-prefetches                                              
+
+       1.787181446 seconds time elapsed
+
+# started on Sun Jun 28 13:33:47 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       2,58,16,967      cache-misses              #   26.120 % of all cache refs    
+       9,88,41,298      cache-references                                            
+            68,767      LLC-prefetches                                              
+
+       1.726865203 seconds time elapsed
+
+# started on Sun Jun 28 13:33:51 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 50':
+
+       2,62,63,605      cache-misses              #   26.577 % of all cache refs    
+       9,88,19,384      cache-references                                            
+            70,762      LLC-prefetches                                              
+
+       1.753146674 seconds time elapsed
+
+# started on Sun Jun 28 13:33:55 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 50':
+
+       5,48,71,955      cache-misses              #   55.364 % of all cache refs    
+       9,91,11,933      cache-references                                            
+          1,08,217      LLC-prefetches                                              
+
+       2.198702231 seconds time elapsed
+
+# started on Sun Jun 28 13:33:59 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 50':
+
+       5,48,90,746      cache-misses              #   55.380 % of all cache refs    
+       9,91,17,255      cache-references                                            
+          1,11,275      LLC-prefetches                                              
+
+       2.213281948 seconds time elapsed
+
+# started on Sun Jun 28 13:34:03 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 60':
+
+         50,22,651      cache-misses              #    5.085 % of all cache refs    
+       9,87,70,109      cache-references                                            
+            53,551      LLC-prefetches                                              
+
+       1.098350972 seconds time elapsed
+
+# started on Sun Jun 28 13:34:07 2015
+
+
+ Performance counter stats for './infiniteULCC 10 64 0 60':
+
+         94,48,485      cache-misses              #    9.552 % of all cache refs    
+       9,89,20,387      cache-references                                            
+            55,821      LLC-prefetches                                              
+
+       1.206816855 seconds time elapsed
+
+# started on Sun Jun 28 13:34:11 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 60':
+
+       1,63,53,696      cache-misses              #   16.547 % of all cache refs    
+       9,88,31,580      cache-references                                            
+            67,030      LLC-prefetches                                              
+
+       1.538999595 seconds time elapsed
+
+# started on Sun Jun 28 13:34:15 2015
+
+
+ Performance counter stats for './infiniteULCC 12 64 0 60':
+
+       1,77,63,009      cache-misses              #   17.965 % of all cache refs    
+       9,88,76,626      cache-references                                            
+            66,759      LLC-prefetches                                              
+
+       1.563556051 seconds time elapsed
+
+# started on Sun Jun 28 13:34:19 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 60':
+
+       5,11,21,699      cache-misses              #   51.582 % of all cache refs    
+       9,91,07,212      cache-references                                            
+            97,862      LLC-prefetches                                              
+
+       2.258913351 seconds time elapsed
+
+# started on Sun Jun 28 13:34:23 2015
+
+
+ Performance counter stats for './infiniteULCC 20 64 0 60':
+
+       4,99,62,461      cache-misses              #   50.397 % of all cache refs    
+       9,91,38,568      cache-references                                            
+          1,02,254      LLC-prefetches                                              
+
+       2.287827633 seconds time elapsed
+
+# started on Tue Jul  7 12:21:56 2015
+
+
+ Performance counter stats for './accesses 11 64 0 30':
+
+       9,50,43,533      cache-misses              #   94.742 % of all cache refs    
+      10,03,18,277      cache-references                                            
+          1,08,961      LLC-prefetches                                              
+
+      11.339993604 seconds time elapsed
+
+# started on Tue Jul  7 12:22:01 2015
+
+
+ Performance counter stats for './accesses 11 64 0 30':
+
+       9,72,19,153      cache-misses              #   96.748 % of all cache refs    
+      10,04,87,150      cache-references                                            
+          1,30,646      LLC-prefetches                                              
+
+      16.943989779 seconds time elapsed
+
+# started on Tue Jul  7 12:22:06 2015
+
+
+ Performance counter stats for './accesses 11 64 0 30':
+
+       9,82,00,049      cache-misses              #   97.608 % of all cache refs    
+      10,06,06,884      cache-references                                            
+          1,29,212      LLC-prefetches                                              
+
+      24.711963640 seconds time elapsed
+
+# started on Tue Jul  7 12:22:11 2015
+
+
+ Performance counter stats for './accesses 11 64 0 50':
+
+       9,85,72,199      cache-misses              #   97.896 % of all cache refs    
+      10,06,90,626      cache-references                                            
+          1,09,028      LLC-prefetches                                              
+
+      31.335966295 seconds time elapsed
+
+# started on Tue Jul  7 12:22:26 2015
+
+
+ Performance counter stats for './accesses 11 64 0 60':
+
+       4,75,76,034      cache-misses              #   98.791 % of all cache refs    
+       4,81,58,387      cache-references                                            
+            81,338      LLC-prefetches                                              
+
+      21.207490941 seconds time elapsed
+
+# started on Tue Jul  7 12:22:16 2015
+
+
+ Performance counter stats for './accesses 11 64 0 50':
+
+       7,93,12,884      cache-misses              #   98.319 % of all cache refs    
+       8,06,68,642      cache-references                                            
+          1,10,419      LLC-prefetches                                              
+
+      31.416557887 seconds time elapsed
+
+# started on Tue Jul  7 12:22:21 2015
+
+
+ Performance counter stats for './accesses 11 64 0 50':
+
+       5,95,58,152      cache-misses              #   98.815 % of all cache refs    
+       6,02,72,593      cache-references                                            
+          1,13,257      LLC-prefetches                                              
+
+      26.305652112 seconds time elapsed
+
+# started on Tue Jul  7 12:21:51 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+      29,92,25,629      cache-misses              #   96.200 % of all cache refs    
+      31,10,44,225      cache-references                                            
+            59,159      LLC-prefetches                                              
+
+      57.026453461 seconds time elapsed
+
+# started on Tue Jul  7 12:21:40 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+      59,15,20,446      cache-misses              #   79.608 % of all cache refs    
+      74,30,43,051      cache-references                                            
+          1,15,640      LLC-prefetches                                              
+
+      67.072628286 seconds time elapsed
+
+# started on Tue Jul  7 12:22:31 2015
+
+
+ Performance counter stats for './accesses 11 64 0 60':
+
+       3,57,47,517      cache-misses              #   98.821 % of all cache refs    
+       3,61,74,052      cache-references                                            
+          1,15,334      LLC-prefetches                                              
+
+      16.132416554 seconds time elapsed
+
+# started on Tue Jul  7 12:22:43 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+       2,00,30,997      cache-misses              #   96.934 % of all cache refs    
+       2,06,64,629      cache-references                                            
+            39,468      LLC-prefetches                                              
+
+       4.949137621 seconds time elapsed
+
+# started on Tue Jul  7 12:22:36 2015
+
+
+ Performance counter stats for './accesses 11 64 0 60':
+
+       2,25,83,418      cache-misses              #   98.682 % of all cache refs    
+       2,28,85,055      cache-references                                            
+          1,17,082      LLC-prefetches                                              
+
+      11.038513725 seconds time elapsed
+
+# started on Tue Jul  7 12:21:45 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+      42,46,88,610      cache-misses              #   92.535 % of all cache refs    
+      45,89,49,827      cache-references                                            
+          1,06,030      LLC-prefetches                                              
+
+      62.119127180 seconds time elapsed
+
+# started on Tue Jul  7 12:22:49 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+      17,16,43,349      cache-misses              #   99.857 % of all cache refs    
+      17,18,88,915      cache-references                                            
+            79,122      LLC-prefetches                                              
+
+       5.010718037 seconds time elapsed
+
+# started on Tue Jul  7 12:22:55 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+      15,11,74,642      cache-misses              #   99.760 % of all cache refs    
+      15,15,38,409      cache-references                                            
+            76,301      LLC-prefetches                                              
+
+       5.010208471 seconds time elapsed
+
+# started on Tue Jul  7 12:23:01 2015
+
+
+ Performance counter stats for './accesses 11 64':
+
+      14,13,52,374      cache-misses              #   99.772 % of all cache refs    
+      14,16,75,051      cache-references                                            
+            50,851      LLC-prefetches                                              
+
+       5.010129417 seconds time elapsed
+
+# started on Tue Jul  7 12:30:25 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+      11,97,32,401      cache-misses              #   50.126 % of all cache refs    
+      23,88,62,221      cache-references                                            
+            53,825      LLC-prefetches                                              
+
+       5.001941903 seconds time elapsed
+
+# started on Tue Jul  7 12:30:30 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+      12,10,37,323      cache-misses              #   59.498 % of all cache refs    
+      20,34,31,613      cache-references                                            
+            79,575      LLC-prefetches                                              
+
+       5.002674657 seconds time elapsed
+
+# started on Tue Jul  7 12:30:35 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+      14,03,15,831      cache-misses              #   78.680 % of all cache refs    
+      17,83,38,328      cache-references                                            
+          1,49,729      LLC-prefetches                                              
+
+       5.002990205 seconds time elapsed
+
+# started on Tue Jul  7 12:30:40 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       5,22,02,779      cache-misses              #   52.195 % of all cache refs    
+      10,00,15,470      cache-references                                            
+          1,05,014      LLC-prefetches                                              
+
+       2.227326625 seconds time elapsed
+
+# started on Tue Jul  7 12:30:45 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       6,10,27,039      cache-misses              #   61.032 % of all cache refs    
+       9,99,91,689      cache-references                                            
+          1,30,686      LLC-prefetches                                              
+
+       2.926538183 seconds time elapsed
+
+# started on Tue Jul  7 12:30:50 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       8,49,57,605      cache-misses              #   84.829 % of all cache refs    
+      10,01,52,120      cache-references                                            
+          2,10,743      LLC-prefetches                                              
+
+       3.339364279 seconds time elapsed
+
+# started on Tue Jul  7 12:30:55 2015
+
+
+ Performance counter stats for './accesses 10 64 0 50':
+
+       5,06,95,133      cache-misses              #   50.741 % of all cache refs    
+       9,99,10,303      cache-references                                            
+            99,781      LLC-prefetches                                              
+
+       2.797636394 seconds time elapsed
+
+# started on Tue Jul  7 12:31:01 2015
+
+
+ Performance counter stats for './accesses 12 64 0 50':
+
+       6,08,55,446      cache-misses              #   60.814 % of all cache refs    
+      10,00,68,857      cache-references                                            
+          1,28,192      LLC-prefetches                                              
+
+       3.442638124 seconds time elapsed
+
+# started on Tue Jul  7 12:31:06 2015
+
+
+ Performance counter stats for './accesses 20 64 0 50':
+
+       8,55,68,841      cache-misses              #   85.206 % of all cache refs    
+      10,04,26,283      cache-references                                            
+          2,04,190      LLC-prefetches                                              
+
+       4.535557522 seconds time elapsed
+
+# started on Tue Jul  7 12:31:11 2015
+
+
+ Performance counter stats for './accesses 10 64 0 60':
+
+       6,37,40,958      cache-misses              #   63.510 % of all cache refs    
+      10,03,64,333      cache-references                                            
+          1,13,548      LLC-prefetches                                              
+
+       4.263921039 seconds time elapsed
+
+# started on Tue Jul  7 12:31:16 2015
+
+
+ Performance counter stats for './accesses 12 64 0 60':
+
+       6,17,41,218      cache-misses              #   61.638 % of all cache refs    
+      10,01,68,028      cache-references                                            
+          1,29,499      LLC-prefetches                                              
+
+       4.281142171 seconds time elapsed
+
+# started on Tue Jul  7 12:31:21 2015
+
+
+ Performance counter stats for './accesses 20 64 0 60':
+
+       8,48,49,119      cache-misses              #   84.459 % of all cache refs    
+      10,04,61,897      cache-references                                            
+          2,05,297      LLC-prefetches                                              
+
+       4.939743309 seconds time elapsed
+
+# started on Tue Jul  7 12:31:27 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+      16,95,43,967      cache-misses              #   87.235 % of all cache refs    
+      19,43,52,848      cache-references                                            
+            85,102      LLC-prefetches                                              
+
+       5.031148867 seconds time elapsed
+
+# started on Tue Jul  7 12:31:33 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+      11,95,55,600      cache-misses              #   70.633 % of all cache refs    
+      16,92,63,581      cache-references                                            
+            61,751      LLC-prefetches                                              
+
+       5.011900013 seconds time elapsed
+
+# started on Tue Jul  7 12:31:39 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+      14,85,12,350      cache-misses              #   99.835 % of all cache refs    
+      14,87,57,487      cache-references                                            
+            81,837      LLC-prefetches                                              
+
+       5.012225302 seconds time elapsed
+
+# started on Tue Jul  7 12:31:45 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+      14,59,41,388      cache-misses              #   99.822 % of all cache refs    
+      14,62,00,917      cache-references                                            
+          1,13,513      LLC-prefetches                                              
+
+       5.012226844 seconds time elapsed
+
+# started on Tue Jul  7 12:31:51 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+      11,18,29,870      cache-misses              #   99.733 % of all cache refs    
+      11,21,29,505      cache-references                                            
+          1,41,563      LLC-prefetches                                              
+
+       5.011313586 seconds time elapsed
+
+# started on Tue Jul  7 12:31:57 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       9,95,52,759      cache-misses              #   99.629 % of all cache refs    
+       9,99,23,477      cache-references                                            
+          1,42,183      LLC-prefetches                                              
+
+       5.011077702 seconds time elapsed
+
+# started on Tue Jul  7 12:32:04 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       5,79,12,416      cache-misses              #   57.913 % of all cache refs    
+       9,99,98,213      cache-references                                            
+          1,31,018      LLC-prefetches                                              
+
+       2.494699472 seconds time elapsed
+
+# started on Tue Jul  7 12:32:10 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       5,80,63,492      cache-misses              #   58.048 % of all cache refs    
+      10,00,27,013      cache-references                                            
+          1,19,338      LLC-prefetches                                              
+
+       2.865480378 seconds time elapsed
+
+# started on Tue Jul  7 12:32:16 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       6,62,84,908      cache-misses              #   66.221 % of all cache refs    
+      10,00,97,103      cache-references                                            
+          1,56,649      LLC-prefetches                                              
+
+       3.218144341 seconds time elapsed
+
+# started on Tue Jul  7 12:32:22 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       6,64,39,356      cache-misses              #   66.285 % of all cache refs    
+      10,02,32,661      cache-references                                            
+          1,62,318      LLC-prefetches                                              
+
+       3.372842676 seconds time elapsed
+
+# started on Tue Jul  7 12:32:28 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       8,32,71,438      cache-misses              #   83.071 % of all cache refs    
+      10,02,41,006      cache-references                                            
+          2,38,360      LLC-prefetches                                              
+
+       4.079471118 seconds time elapsed
+
+# started on Tue Jul  7 12:32:34 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       8,37,85,981      cache-misses              #   83.256 % of all cache refs    
+      10,06,36,182      cache-references                                            
+          2,74,531      LLC-prefetches                                              
+
+       4.677307487 seconds time elapsed
+
+# started on Tue Jul  7 12:32:40 2015
+
+
+ Performance counter stats for './accesses 10 64 0 50':
+
+       5,87,37,385      cache-misses              #   58.669 % of all cache refs    
+      10,01,16,120      cache-references                                            
+          1,09,755      LLC-prefetches                                              
+
+       4.156346309 seconds time elapsed
+
+# started on Tue Jul  7 12:32:46 2015
+
+
+ Performance counter stats for './accesses 10 64 0 50':
+
+       5,99,57,154      cache-misses              #   59.760 % of all cache refs    
+      10,03,30,044      cache-references                                            
+          1,08,006      LLC-prefetches                                              
+
+       4.265154127 seconds time elapsed
+
+# started on Tue Jul  7 12:32:52 2015
+
+
+ Performance counter stats for './accesses 12 64 0 50':
+
+       6,51,59,303      cache-misses              #   65.046 % of all cache refs    
+      10,01,74,387      cache-references                                            
+          1,29,046      LLC-prefetches                                              
+
+       4.582360631 seconds time elapsed
+
+# started on Tue Jul  7 12:32:58 2015
+
+
+ Performance counter stats for './accesses 12 64 0 50':
+
+       6,67,95,203      cache-misses              #   66.613 % of all cache refs    
+      10,02,73,098      cache-references                                            
+          1,26,631      LLC-prefetches                                              
+
+       4.649629898 seconds time elapsed
+
+# started on Tue Jul  7 12:33:05 2015
+
+
+ Performance counter stats for './accesses 20 64 0 50':
+
+       7,75,51,698      cache-misses              #   80.974 % of all cache refs    
+       9,57,73,017      cache-references                                            
+          2,27,550      LLC-prefetches                                              
+
+       5.009574995 seconds time elapsed
+
+# started on Tue Jul  7 12:33:11 2015
+
+
+ Performance counter stats for './accesses 20 64 0 50':
+
+       7,83,60,323      cache-misses              #   81.694 % of all cache refs    
+       9,59,19,803      cache-references                                            
+          1,99,460      LLC-prefetches                                              
+
+       5.009690851 seconds time elapsed
+
+# started on Tue Jul  7 12:33:17 2015
+
+
+ Performance counter stats for './accesses 10 64 0 60':
+
+       5,60,99,631      cache-misses              #   55.946 % of all cache refs    
+      10,02,75,382      cache-references                                            
+          1,10,271      LLC-prefetches                                              
+
+       4.625026575 seconds time elapsed
+
+# started on Tue Jul  7 12:33:23 2015
+
+
+ Performance counter stats for './accesses 10 64 0 60':
+
+       5,35,97,832      cache-misses              #   53.483 % of all cache refs    
+      10,02,15,128      cache-references                                            
+          1,05,207      LLC-prefetches                                              
+
+       4.733688343 seconds time elapsed
+
+# started on Tue Jul  7 12:33:29 2015
+
+
+ Performance counter stats for './accesses 12 64 0 60':
+
+       4,86,31,301      cache-misses              #   66.967 % of all cache refs    
+       7,26,19,975      cache-references                                            
+          1,36,028      LLC-prefetches                                              
+
+       5.008492211 seconds time elapsed
+
+# started on Tue Jul  7 12:33:35 2015
+
+
+ Performance counter stats for './accesses 12 64 0 60':
+
+       4,55,01,141      cache-misses              #   62.963 % of all cache refs    
+       7,22,66,250      cache-references                                            
+          1,34,899      LLC-prefetches                                              
+
+       5.008113061 seconds time elapsed
+
+# started on Tue Jul  7 12:33:41 2015
+
+
+ Performance counter stats for './accesses 20 64 0 60':
+
+       4,76,72,597      cache-misses              #   79.843 % of all cache refs    
+       5,97,07,905      cache-references                                            
+          1,99,179      LLC-prefetches                                              
+
+       5.008882067 seconds time elapsed
+
+# started on Tue Jul  7 12:33:47 2015
+
+
+ Performance counter stats for './accesses 20 64 0 60':
+
+       4,76,40,276      cache-misses              #   79.792 % of all cache refs    
+       5,97,05,746      cache-references                                            
+          1,87,774      LLC-prefetches                                              
+
+       5.008718957 seconds time elapsed
+
+# started on Fri Jul 17 00:12:54 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,87,96,557      cache-misses              #   12.467 % of all cache refs    
+      15,07,75,554      cache-references                                            
+             9,642      LLC-prefetches                                              
+
+       2.002879582 seconds time elapsed
+
+# started on Fri Jul 17 00:12:56 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       3,05,54,174      cache-misses              #   35.438 % of all cache refs    
+       8,62,19,484      cache-references                                            
+            10,211      LLC-prefetches                                              
+
+       2.002796322 seconds time elapsed
+
+# started on Fri Jul 17 00:12:58 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,06,46,382      cache-misses              #   18.728 % of all cache refs    
+      11,02,41,274      cache-references                                            
+            45,870      LLC-prefetches                                              
+
+       2.002653588 seconds time elapsed
+
+# started on Fri Jul 17 00:13:00 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       1,87,83,908      cache-misses              #   17.688 % of all cache refs    
+      10,61,93,980      cache-references                                            
+            40,957      LLC-prefetches                                              
+
+       2.002542868 seconds time elapsed
+
+# started on Fri Jul 17 00:13:02 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       3,16,93,448      cache-misses              #   51.150 % of all cache refs    
+       6,19,61,587      cache-references                                            
+            41,173      LLC-prefetches                                              
+
+       2.002484312 seconds time elapsed
+
+# started on Fri Jul 17 00:13:04 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       2,93,73,956      cache-misses              #   52.717 % of all cache refs    
+       5,57,19,865      cache-references                                            
+            40,802      LLC-prefetches                                              
+
+       2.002798363 seconds time elapsed
+
+# started on Fri Jul 17 00:13:06 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,33,83,100      cache-misses              #   17.266 % of all cache refs    
+      13,54,31,450      cache-references                                            
+            62,286      LLC-prefetches                                              
+
+       2.003092047 seconds time elapsed
+
+# started on Fri Jul 17 00:13:08 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,12,43,032      cache-misses              #   17.888 % of all cache refs    
+      11,87,55,189      cache-references                                            
+            56,164      LLC-prefetches                                              
+
+       2.002852146 seconds time elapsed
+
+# started on Fri Jul 17 00:13:10 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,98,09,143      cache-misses              #   18.049 % of all cache refs    
+      10,97,54,152      cache-references                                            
+            67,453      LLC-prefetches                                              
+
+       2.003058231 seconds time elapsed
+
+# started on Fri Jul 17 00:13:13 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       2,23,67,336      cache-misses              #   22.732 % of all cache refs    
+       9,83,96,684      cache-references                                            
+            63,015      LLC-prefetches                                              
+
+       2.003191245 seconds time elapsed
+
+# started on Fri Jul 17 00:13:15 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       3,24,05,459      cache-misses              #   53.947 % of all cache refs    
+       6,00,69,204      cache-references                                            
+          1,01,497      LLC-prefetches                                              
+
+       2.003864395 seconds time elapsed
+
+# started on Fri Jul 17 00:13:17 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       2,96,96,416      cache-misses              #   55.147 % of all cache refs    
+       5,38,49,536      cache-references                                            
+          1,03,610      LLC-prefetches                                              
+
+       2.003455318 seconds time elapsed
+
+# started on Fri Jul 17 00:13:20 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       4,17,35,050      cache-misses              #   48.007 % of all cache refs    
+       8,69,35,201      cache-references                                            
+             6,074      LLC-prefetches                                              
+
+       2.010595585 seconds time elapsed
+
+# started on Fri Jul 17 00:13:23 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       2,16,05,884      cache-misses              #   20.467 % of all cache refs    
+      10,55,66,278      cache-references                                            
+            11,607      LLC-prefetches                                              
+
+       2.010713843 seconds time elapsed
+
+# started on Fri Jul 17 00:13:26 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,95,16,241      cache-misses              #   19.892 % of all cache refs    
+       9,81,10,142      cache-references                                            
+            11,270      LLC-prefetches                                              
+
+       2.013166323 seconds time elapsed
+
+# started on Fri Jul 17 00:13:29 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,88,49,004      cache-misses              #   20.596 % of all cache refs    
+       9,15,19,421      cache-references                                            
+            11,421      LLC-prefetches                                              
+
+       2.009500630 seconds time elapsed
+
+# started on Fri Jul 17 00:13:32 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       4,67,44,906      cache-misses              #   99.395 % of all cache refs    
+       4,70,29,666      cache-references                                            
+             6,991      LLC-prefetches                                              
+
+       2.010588776 seconds time elapsed
+
+# started on Fri Jul 17 00:13:35 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,08,02,730      cache-misses              #   31.211 % of all cache refs    
+       6,66,52,089      cache-references                                            
+            47,488      LLC-prefetches                                              
+
+       2.010417155 seconds time elapsed
+
+# started on Fri Jul 17 00:13:38 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       3,92,84,689      cache-misses              #   99.733 % of all cache refs    
+       3,93,89,899      cache-references                                            
+            39,722      LLC-prefetches                                              
+
+       2.010504823 seconds time elapsed
+
+# started on Fri Jul 17 00:13:41 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,02,70,757      cache-misses              #   35.802 % of all cache refs    
+       5,66,19,616      cache-references                                            
+            11,706      LLC-prefetches                                              
+
+       2.011948191 seconds time elapsed
+
+# started on Fri Jul 17 00:13:44 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       3,26,88,808      cache-misses              #   80.866 % of all cache refs    
+       4,04,23,487      cache-references                                            
+            74,405      LLC-prefetches                                              
+
+       2.009709977 seconds time elapsed
+
+# started on Fri Jul 17 00:13:48 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       3,21,59,165      cache-misses              #   83.302 % of all cache refs    
+       3,86,05,731      cache-references                                            
+            41,224      LLC-prefetches                                              
+
+       2.010468883 seconds time elapsed
+
+# started on Fri Jul 17 00:13:51 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       2,79,41,149      cache-misses              #   70.198 % of all cache refs    
+       3,98,03,183      cache-references                                            
+            75,403      LLC-prefetches                                              
+
+       2.011707458 seconds time elapsed
+
+# started on Fri Jul 17 00:13:54 2015
+
+
+ Performance counter stats for './accesses 20 64':
+
+       2,78,39,778      cache-misses              #   72.314 % of all cache refs    
+       3,84,98,489      cache-references                                            
+            43,114      LLC-prefetches                                              
+
+       2.011095258 seconds time elapsed
+
+# started on Fri Jul 17 00:13:57 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,91,51,919      cache-misses              #   13.836 % of all cache refs    
+      13,84,19,427      cache-references                                            
+            59,895      LLC-prefetches                                              
+
+       2.012985498 seconds time elapsed
+
+# started on Fri Jul 17 00:14:00 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,13,74,162      cache-misses              #    8.420 % of all cache refs    
+      13,50,84,935      cache-references                                            
+            55,604      LLC-prefetches                                              
+
+       2.014864933 seconds time elapsed
+
+# started on Fri Jul 17 00:14:03 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,36,81,707      cache-misses              #   12.576 % of all cache refs    
+      10,87,89,539      cache-references                                            
+            55,105      LLC-prefetches                                              
+
+       2.013535535 seconds time elapsed
+
+# started on Fri Jul 17 00:14:06 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,64,42,803      cache-misses              #   18.911 % of all cache refs    
+       8,69,48,218      cache-references                                            
+            56,540      LLC-prefetches                                              
+
+       2.012149127 seconds time elapsed
+
+# started on Fri Jul 17 00:14:09 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,52,51,960      cache-misses              #   20.188 % of all cache refs    
+       7,55,49,073      cache-references                                            
+          3,68,633      LLC-prefetches                                              
+
+       2.012445362 seconds time elapsed
+
+# started on Fri Jul 17 00:14:12 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,48,35,056      cache-misses              #   23.476 % of all cache refs    
+       6,31,92,873      cache-references                                            
+          6,26,547      LLC-prefetches                                              
+
+       2.012358862 seconds time elapsed
+
+# started on Fri Jul 17 00:14:15 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,28,32,727      cache-misses              #   25.085 % of all cache refs    
+       5,11,57,988      cache-references                                            
+         11,56,207      LLC-prefetches                                              
+
+       2.013176913 seconds time elapsed
+
+# started on Fri Jul 17 00:14:18 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,44,39,140      cache-misses              #   21.653 % of all cache refs    
+       6,66,83,468      cache-references                                            
+            66,816      LLC-prefetches                                              
+
+       2.011410447 seconds time elapsed
+
+# started on Fri Jul 17 00:14:21 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       2,40,59,095      cache-misses              #   54.057 % of all cache refs    
+       4,45,07,193      cache-references                                            
+          1,08,486      LLC-prefetches                                              
+
+       2.012006210 seconds time elapsed
+
+# started on Fri Jul 17 00:14:25 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       2,37,26,305      cache-misses              #   55.758 % of all cache refs    
+       4,25,52,498      cache-references                                            
+          1,13,924      LLC-prefetches                                              
+
+       2.013287320 seconds time elapsed
+
+# started on Fri Jul 17 00:14:28 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       2,36,93,948      cache-misses              #   56.201 % of all cache refs    
+       4,21,59,248      cache-references                                            
+          1,08,531      LLC-prefetches                                              
+
+       2.014848491 seconds time elapsed
+
+# started on Fri Jul 17 00:14:31 2015
+
+
+ Performance counter stats for './accesses 20 64 0 30':
+
+       2,33,69,472      cache-misses              #   57.082 % of all cache refs    
+       4,09,39,931      cache-references                                            
+          1,04,672      LLC-prefetches                                              
+
+       2.013803776 seconds time elapsed
+
+# started on Fri Jul 17 00:22:02 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       3,52,98,193      cache-misses              #   33.485 % of all cache refs    
+      10,54,14,642      cache-references                                            
+             6,485      LLC-prefetches                                              
+
+       2.002575701 seconds time elapsed
+
+# started on Fri Jul 17 00:22:04 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,31,06,850      cache-misses              #    8.139 % of all cache refs    
+      16,10,41,515      cache-references                                            
+            46,470      LLC-prefetches                                              
+
+       2.002816353 seconds time elapsed
+
+# started on Fri Jul 17 00:22:07 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       1,90,44,234      cache-misses              #   16.911 % of all cache refs    
+      11,26,11,330      cache-references                                            
+            46,191      LLC-prefetches                                              
+
+       2.002847378 seconds time elapsed
+
+# started on Fri Jul 17 00:22:09 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,39,39,724      cache-misses              #   24.296 % of all cache refs    
+       9,85,34,289      cache-references                                            
+            40,331      LLC-prefetches                                              
+
+       2.002701980 seconds time elapsed
+
+# started on Fri Jul 17 00:22:11 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,16,72,539      cache-misses              #   15.561 % of all cache refs    
+      13,92,77,073      cache-references                                            
+            55,732      LLC-prefetches                                              
+
+       2.003143763 seconds time elapsed
+
+# started on Fri Jul 17 00:22:13 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,82,13,653      cache-misses              #   26.750 % of all cache refs    
+      10,54,71,716      cache-references                                            
+            54,159      LLC-prefetches                                              
+
+       2.003111413 seconds time elapsed
+
+# started on Fri Jul 17 00:22:15 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       2,29,82,864      cache-misses              #   21.762 % of all cache refs    
+      10,56,10,985      cache-references                                            
+            67,023      LLC-prefetches                                              
+
+       2.003267580 seconds time elapsed
+
+# started on Fri Jul 17 00:22:17 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,92,34,829      cache-misses              #   18.487 % of all cache refs    
+      10,40,47,690      cache-references                                            
+            68,784      LLC-prefetches                                              
+
+       2.003324330 seconds time elapsed
+
+# started on Fri Jul 17 00:22:20 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       3,65,46,828      cache-misses              #   40.632 % of all cache refs    
+       8,99,45,253      cache-references                                            
+             9,402      LLC-prefetches                                              
+
+       2.010856983 seconds time elapsed
+
+# started on Fri Jul 17 00:22:23 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,87,45,980      cache-misses              #   16.300 % of all cache refs    
+      11,50,03,654      cache-references                                            
+            13,646      LLC-prefetches                                              
+
+       2.011223336 seconds time elapsed
+
+# started on Fri Jul 17 00:22:26 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,62,73,160      cache-misses              #   31.986 % of all cache refs    
+       8,21,40,593      cache-references                                            
+            12,168      LLC-prefetches                                              
+
+       2.010586795 seconds time elapsed
+
+# started on Fri Jul 17 00:22:29 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,53,90,603      cache-misses              #   32.637 % of all cache refs    
+       7,77,96,551      cache-references                                            
+            14,260      LLC-prefetches                                              
+
+       2.011343991 seconds time elapsed
+
+# started on Fri Jul 17 00:22:32 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,47,14,540      cache-misses              #   12.338 % of all cache refs    
+      11,92,60,836      cache-references                                            
+          5,36,305      LLC-prefetches                                              
+
+       2.012920714 seconds time elapsed
+
+# started on Fri Jul 17 00:22:35 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,10,40,604      cache-misses              #   23.139 % of all cache refs    
+       9,09,33,115      cache-references                                            
+            55,187      LLC-prefetches                                              
+
+       2.012982845 seconds time elapsed
+
+# started on Fri Jul 17 00:22:39 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,73,36,645      cache-misses              #   21.614 % of all cache refs    
+       8,02,09,857      cache-references                                            
+          5,91,531      LLC-prefetches                                              
+
+       2.013099812 seconds time elapsed
+
+# started on Fri Jul 17 00:22:42 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,90,79,314      cache-misses              #   21.712 % of all cache refs    
+       8,78,76,299      cache-references                                            
+            73,119      LLC-prefetches                                              
+
+       2.012196332 seconds time elapsed
+
+# started on Fri Jul 17 00:38:13 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       3,38,52,161      cache-misses              #   32.589 % of all cache refs    
+      10,38,76,339      cache-references                                            
+             7,912      LLC-prefetches                                              
+
+       2.003009652 seconds time elapsed
+
+# started on Fri Jul 17 00:38:15 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       2,89,88,810      cache-misses              #   30.636 % of all cache refs    
+       9,46,21,946      cache-references                                            
+             9,137      LLC-prefetches                                              
+
+       2.002720981 seconds time elapsed
+
+# started on Fri Jul 17 00:38:17 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       1,97,30,414      cache-misses              #   17.684 % of all cache refs    
+      11,15,74,096      cache-references                                            
+            40,171      LLC-prefetches                                              
+
+       2.002707401 seconds time elapsed
+
+# started on Fri Jul 17 00:38:19 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       3,65,71,691      cache-misses              #   52.682 % of all cache refs    
+       6,94,19,246      cache-references                                            
+            10,212      LLC-prefetches                                              
+
+       2.002808688 seconds time elapsed
+
+# started on Fri Jul 17 00:38:21 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       3,66,95,447      cache-misses              #   30.250 % of all cache refs    
+      12,13,06,726      cache-references                                            
+            59,234      LLC-prefetches                                              
+
+       2.003114516 seconds time elapsed
+
+# started on Fri Jul 17 00:38:23 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,80,93,086      cache-misses              #   13.901 % of all cache refs    
+      13,01,53,547      cache-references                                            
+            54,978      LLC-prefetches                                              
+
+       2.002897787 seconds time elapsed
+
+# started on Fri Jul 17 00:38:25 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       2,03,59,173      cache-misses              #   18.837 % of all cache refs    
+      10,80,79,883      cache-references                                            
+            68,829      LLC-prefetches                                              
+
+       2.003185652 seconds time elapsed
+
+# started on Fri Jul 17 00:38:27 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       1,92,19,039      cache-misses              #   20.679 % of all cache refs    
+       9,29,38,312      cache-references                                            
+            66,915      LLC-prefetches                                              
+
+       2.003150044 seconds time elapsed
+
+# started on Fri Jul 17 00:38:30 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       2,19,46,801      cache-misses              #   17.998 % of all cache refs    
+      12,19,37,219      cache-references                                            
+            13,632      LLC-prefetches                                              
+
+       2.010640842 seconds time elapsed
+
+# started on Fri Jul 17 00:38:33 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       2,56,77,585      cache-misses              #   25.051 % of all cache refs    
+      10,25,01,848      cache-references                                            
+            40,621      LLC-prefetches                                              
+
+       2.011310494 seconds time elapsed
+
+# started on Fri Jul 17 00:38:37 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       2,64,85,076      cache-misses              #   31.186 % of all cache refs    
+       8,49,26,388      cache-references                                            
+            43,956      LLC-prefetches                                              
+
+       2.013058801 seconds time elapsed
+
+# started on Fri Jul 17 00:38:40 2015
+
+
+ Performance counter stats for './accesses 12 64':
+
+       4,13,33,984      cache-misses              #   71.984 % of all cache refs    
+       5,74,21,412      cache-references                                            
+             9,765      LLC-prefetches                                              
+
+       2.010902219 seconds time elapsed
+
+# started on Fri Jul 17 00:38:43 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,53,64,481      cache-misses              #   29.573 % of all cache refs    
+       8,57,67,839      cache-references                                            
+          6,47,242      LLC-prefetches                                              
+
+       2.011878250 seconds time elapsed
+
+# started on Fri Jul 17 00:38:46 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,83,22,135      cache-misses              #   19.014 % of all cache refs    
+       9,63,60,931      cache-references                                            
+          3,34,125      LLC-prefetches                                              
+
+       2.012842477 seconds time elapsed
+
+# started on Fri Jul 17 00:38:49 2015
+
+
+ Performance counter stats for './accesses 12 64 0 30':
+
+       2,89,13,951      cache-misses              #   47.727 % of all cache refs    
+       6,05,81,689      cache-references                                            
+          5,64,991      LLC-prefetches                                              
+
+       2.013017613 seconds time elapsed
+
+# started on Fri Jul 17 00:40:22 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       3,17,69,108      cache-misses              #   27.926 % of all cache refs    
+      11,37,62,723      cache-references                                            
+             7,393      LLC-prefetches                                              
+
+       2.001694709 seconds time elapsed
+
+# started on Fri Jul 17 00:40:24 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,48,12,448      cache-misses              #   10.321 % of all cache refs    
+      14,35,21,966      cache-references                                            
+            42,129      LLC-prefetches                                              
+
+       2.002754143 seconds time elapsed
+
+# started on Fri Jul 17 00:40:26 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,21,70,323      cache-misses              #    6.445 % of all cache refs    
+      18,88,22,559      cache-references                                            
+            60,290      LLC-prefetches                                              
+
+       2.003263972 seconds time elapsed
+
+# started on Fri Jul 17 00:40:28 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,44,83,797      cache-misses              #   11.845 % of all cache refs    
+      12,22,80,887      cache-references                                            
+          5,62,302      LLC-prefetches                                              
+
+       2.003138075 seconds time elapsed
+
+# started on Fri Jul 17 00:40:31 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       4,30,00,268      cache-misses              #   55.247 % of all cache refs    
+       7,78,32,860      cache-references                                            
+             7,966      LLC-prefetches                                              
+
+       2.011539613 seconds time elapsed
+
+# started on Fri Jul 17 00:40:34 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       4,39,79,318      cache-misses              #   64.345 % of all cache refs    
+       6,83,49,479      cache-references                                            
+             7,282      LLC-prefetches                                              
+
+       2.012531916 seconds time elapsed
+
+# started on Fri Jul 17 00:40:37 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,32,77,464      cache-misses              #    9.311 % of all cache refs    
+      14,26,01,792      cache-references                                            
+            72,525      LLC-prefetches                                              
+
+       2.012733144 seconds time elapsed
+
+# started on Fri Jul 17 00:40:40 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+         97,77,448      cache-misses              #    6.835 % of all cache refs    
+      14,30,49,521      cache-references                                            
+            65,562      LLC-prefetches                                              
+
+       2.013653223 seconds time elapsed
+
+# started on Fri Jul 17 00:52:30 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       4,46,17,517      cache-misses              #   38.586 % of all cache refs    
+      11,56,32,051      cache-references                                            
+             7,439      LLC-prefetches                                              
+
+       2.001643810 seconds time elapsed
+
+# started on Fri Jul 17 00:52:32 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,61,99,508      cache-misses              #   10.784 % of all cache refs    
+      15,02,12,852      cache-references                                            
+            44,124      LLC-prefetches                                              
+
+       2.002882202 seconds time elapsed
+
+# started on Fri Jul 17 00:52:34 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       2,38,40,271      cache-misses              #   18.880 % of all cache refs    
+      12,62,70,132      cache-references                                            
+            56,038      LLC-prefetches                                              
+
+       2.003954835 seconds time elapsed
+
+# started on Fri Jul 17 00:52:36 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,24,70,445      cache-misses              #    7.681 % of all cache refs    
+      16,23,64,182      cache-references                                            
+            57,848      LLC-prefetches                                              
+
+       2.003334217 seconds time elapsed
+
+# started on Fri Jul 17 00:52:40 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       1,57,50,601      cache-misses              #   10.996 % of all cache refs    
+      14,32,40,851      cache-references                                            
+            46,423      LLC-prefetches                                              
+
+       2.011143929 seconds time elapsed
+
+# started on Fri Jul 17 00:52:43 2015
+
+
+ Performance counter stats for './accesses 10 64':
+
+       5,25,95,948      cache-misses              #   75.071 % of all cache refs    
+       7,00,61,192      cache-references                                            
+            13,450      LLC-prefetches                                              
+
+       2.010636933 seconds time elapsed
+
+# started on Fri Jul 17 00:52:46 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,75,38,277      cache-misses              #   14.628 % of all cache refs    
+      11,98,95,099      cache-references                                            
+          1,37,640      LLC-prefetches                                              
+
+       2.013067175 seconds time elapsed
+
+# started on Fri Jul 17 00:52:49 2015
+
+
+ Performance counter stats for './accesses 10 64 0 30':
+
+       1,84,80,100      cache-misses              #   17.938 % of all cache refs    
+      10,30,21,430      cache-references                                            
+            57,776      LLC-prefetches                                              
+
+       2.015642314 seconds time elapsed
+
